@@ -1,0 +1,92 @@
+@charset "utf-8";
+/* CSS Document */
+
+#body {
+	background-image: url("../../images/fondo.jpg");
+	background-color: blueviolet;
+}
+
+
+
+#content {
+	position: absolute;
+	background-color: antiquewhite;
+	height: 1056px;
+	width: 1600px;
+	margin-left: 132px;
+	margin-right: 132px;
+}
+
+#header {
+	position: absolute;
+	height: 141px;
+    width: 1600px;
+	color: white;
+}
+
+#nav-main {
+	position: absolute;
+	top: 85px;
+	width: 800px;
+}
+
+#spanish {
+	position: absolute;
+	top: 100px;
+	left: 1530px;
+}
+
+#english {
+	position: absolute;
+	top: 100px;
+	left: 1560px;
+}
+
+#section {
+	position: absolute;
+	text-align: justify-all;
+	top: 162px;
+	width: 1560px;
+	left: 20px;
+}
+
+#card {
+	width: 18rem; position: absolute; left: 66px; top: 710px; color: white;
+}
+
+#cucFooter {
+	position: absolute;
+	width: 178px;
+	height: 80px;
+	top: 976px;
+	left: 20px;
+}
+
+#dptFooter {
+	position: absolute;
+	width: 172px;
+	height: 80px;
+	top: 976px;
+	left: 1419px;
+}
+
+#footer0 {
+	position: absolute;
+    height: 80px;
+    width: 20px;
+	top: 976px;
+}
+
+#footer1 {
+	position: absolute;
+    height: 80px;
+    width: 1221px;
+	left: 198px;
+}
+
+#footer2 {
+	position: absolute;
+    height: 80px;
+    width: 20px;
+	left: 1382px;
+}
